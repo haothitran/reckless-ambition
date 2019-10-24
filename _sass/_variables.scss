@@ -1,0 +1,32 @@
+/*------------------------------------------------------------------------------
+-- // VARIABLES
+------------------------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+
+$base-font-family:    'Roboto', Arial, sans-serif;
+$heading-font-family: 'Oswald', Arial, sans-serif;
+
+$base-font-size:    18px;
+$base-line-height:  1.6;
+$media-font-size:   16px;
+
+$spacing-unit:      36px;
+$content-width:     900px;
+
+$background-color:  #101010;
+$text-color:        #dfdfdf;
+
+$border-light-color:  #696969;
+$border-dark-color:   #242424;
+$brand-color:         #92c73d;
+$emphasize-color:     #f2964a;
+$highlight-color:     #ffd454;
+
+// @include transition(all .25s ease-in-out);
+@mixin transition($args...) {
+  -webkit-transition: $args;
+     -moz-transition: $args;
+      -ms-transition: $args;
+       -o-transition: $args;
+          transition: $args;
+}

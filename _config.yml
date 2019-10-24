@@ -1,0 +1,17 @@
+# site information
+title: Reckless Ambition
+description: A progressive World of Warcraft weekend raiding guild on Area-52 (US).
+
+# site settings
+url: "http://haothitran.github.io/reckless-ambition"
+baseurl: ""
+repo: https://github.com/haothitran/reckless-ambition
+
+# build settings
+include: ["_pages"]
+
+# author information
+author: Hao Thi Tran
+email: hello@haothitran.com
+website: https://haothitran.com/
+git: https://github.com/haothitran/

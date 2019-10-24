@@ -1,0 +1,244 @@
+/*------------------------------------------------------------------------------
+-- // RESETS
+------------------------------------------------------------------------------*/
+
+html { box-sizing: border-box; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html, body, div, span,
+header, nav, main, article, section, aside, footer,
+h1, h2, h3, h4, h5, h6,
+p, strong, em, b, i, u, a, ul, ol, li,
+blockquote, pre, code, img, audio, video,
+table, caption, thead, tbody, tfoot, tr, th, td,
+form, input {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  font-size: 100%;
+  font-weight: normal;
+  vertical-align: baseline;
+}
+
+header, nav, main, article, section, aside, footer,
+blockquote, pre, img, audio, video,
+table, form {
+  display: block;
+}
+
+/*------------------------------------------------------------------------------
+-- // BASE
+------------------------------------------------------------------------------*/
+
+body {
+  background-color: $background-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  font-weight: normal;
+  line-height: $base-line-height;
+  color: $text-color;
+}
+@media (max-width: $content-width) {
+  body {
+    font-size: $media-font-size;
+  }
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol,
+blockquote, pre, img, audio, video,
+table, form {
+  margin-bottom: $spacing-unit;
+}
+
+/*------------------------------------------------------------------------------
+-- // BASIC ELEMENTS
+------------------------------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  line-height: 1;
+  text-transform: uppercase;
+}
+h1, h2 {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid $border-light-color;
+  font-size: 2em;
+  letter-spacing: .01em;
+}
+h2 { margin-top: $spacing-unit * 4; }
+h3 {
+  font-size: 1.5em;
+  letter-spacing: .03em;
+}
+
+p {
+  text-align: left;
+
+  &:last-child { margin-bottom: 0; }
+}
+
+em { font-style: italic; }
+
+strong { font-weight: bold; }
+
+a {
+  border-bottom: 1px solid $border-dark-color;
+  color: $highlight-color;
+  text-decoration: none;
+  @include transition(all .25s ease-in-out);
+
+  &:hover { color: $emphasize-color; }
+}
+
+/*------------------------------------------------------------------------------
+-- // LISTS
+------------------------------------------------------------------------------*/
+
+ul {
+  padding-left: $spacing-unit / 2;
+  list-style-type: square;
+}
+
+ol { padding-left: $spacing-unit / 2; }
+
+/*------------------------------------------------------------------------------
+-- // TEXT SELECTION
+------------------------------------------------------------------------------*/
+
+::selection {
+  background-color: #323232;
+  color: $highlight-color;
+  text-shadow: none;
+}
+::-moz-selection {
+  background-color: #323232;
+  color: $highlight-color;
+  text-shadow: none;
+}
+
+/*------------------------------------------------------------------------------
+-- // IMAGES
+------------------------------------------------------------------------------*/
+
+img { max-width: 100%; }
+
+/*------------------------------------------------------------------------------
+-- // TABLE
+------------------------------------------------------------------------------*/
+
+table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid $border-dark-color;
+  overflow-x: auto;
+
+  th, td {
+    display: table-cell;
+    padding: 4px 20px 4px 8px;
+    border: 1px solid $border-dark-color;
+    text-align: left;
+
+    &:last-child { padding-right: 8px; }
+  }
+
+  th {
+    background-color: #191919;
+    font-weight: bold;
+  }
+
+  tr:hover { background-color: #121212; }
+}
+
+/*------------------------------------------------------------------------------
+-- // BUTTON
+------------------------------------------------------------------------------*/
+
+.test,
+.first,
+.second {
+  position: absolute;
+}
+
+.test {
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 170px;
+  height: 50px;
+  transition: all 0.3s ease;
+}
+
+.wrap {
+  width: 100%;
+  height: 50px;
+  border: 2px solid #FFF;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+}
+
+.first,
+.second {
+  width: 100%;
+  height: 50px;
+  font-family: 'Open Sans', sans-serif;
+  transition: all 0.2s ease-in-out;
+  font-size: 17px;
+  text-transform: uppercase;
+  color: #FFF;
+  letter-spacing: 2px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+}
+
+.second {
+  opacity: 0;
+}
+
+.test:hover {
+   width: 280px;
+
+  .wrap {
+  padding-bottom: 17px;
+  }
+  .first {
+    transform: translateY(-8px);
+    padding-top: 5px;
+  }
+  .second {
+    transform: translateY(20px);
+    opacity: 1;
+  }
+}
+
+/*------------------------------------------------------------------------------
+-- // COLOURS
+------------------------------------------------------------------------------*/
+
+.death-knight { color: #c41f3b; }
+.demon-hunter { color: #a330c9; }
+.druid        { color: #ff7d0a; }
+.hunter       { color: #abd473; }
+.mage         { color: #69ccf0; }
+.monk         { color: #00ff96; }
+.paladin      { color: #f58cba; }
+.priest       { color: #ffffff; }
+.rogue        { color: #fff569; }
+.shaman       { color: #0070de; }
+.warlock      { color: #9482c9; }
+.warrior      { color: #c79c6e; }
+
+.extremely-low  { color: #787878; }
+.low            { color: #7ac491; }
+.medium         { color: #ffd320; }
+.high           { color: #ff420e; }
