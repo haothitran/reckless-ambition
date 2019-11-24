@@ -22,7 +22,7 @@ We raid weekend mornings on Saturday and Sunday from 10:00 am to 1:00 pm EST. No
 ## Recruitment
 
 Current recruitment needs. [Interested?](/apply)  
-Last updated 2019-10-23.
+Last updated 2019-11-24.
 
 <table>
 

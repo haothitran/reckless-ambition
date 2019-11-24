@@ -54,7 +54,7 @@
 
 - class: <span class="shaman">Shaman</span>
   spec1: <span class="extremely-low">Enhancement</span>
-  spec2: <span class="low">Elemental</span>
+  spec2: <span class="high">Elemental</span>
   spec3: <span class="medium">Restoration</span>
   spec4:
 
