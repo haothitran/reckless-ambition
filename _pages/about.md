@@ -20,7 +20,7 @@ We have an active roster with events outside raiding hours. Random heroic and no
 
 ## Past Achievements
 
-- 6/8 Mythic Eternal Palace
+- 7/8 Mythic Eternal Palace
 - 9/9 Mythic Battle of Dazar'alor (CE)
 - 8/8 Mythic Uldir (CE)
 - 11/11 Mythic Antorus, the Burning Throne (CE)
