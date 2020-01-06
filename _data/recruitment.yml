@@ -14,7 +14,7 @@
   spec1: <span class="extremely-low">Guardian</span>
   spec2: <span class="extremely-low">Feral</span>
   spec3: <span class="high">Balance</span>
-  spec4: <span class="medium">Restoration</span>
+  spec4: <span class="low">Restoration</span>
 
 - class: <span class="hunter">Hunter</span>
   spec1: <span class="extremely-low">Survival</span>
@@ -37,7 +37,7 @@
 - class: <span class="paladin">Paladin</span>
   spec1: <span class="extremely-low">Protection</span>
   spec2: <span class="extremely-low">Retribution</span>
-  spec3: <span class="low">Holy</span>
+  spec3: <span class="extremely-low">Holy</span>
   spec4:
 
 - class: <span class="priest">Priest</span>
@@ -47,9 +47,9 @@
   spec4:
 
 - class: <span class="rogue">Rogue</span>
-  spec1: <span class="medium">Assassination</span>
-  spec2: <span class="medium">Outlaw</span>
-  spec3: <span class="medium">Subtlety</span>
+  spec1: <span class="low">Assassination</span>
+  spec2: <span class="low">Outlaw</span>
+  spec3: <span class="low">Subtlety</span>
   spec4:
 
 - class: <span class="shaman">Shaman</span>
