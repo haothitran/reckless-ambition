@@ -15,9 +15,9 @@ We raid weekend mornings on Saturday and Sunday from 10:00 am to 2:00 pm EST. No
 |-----------|-------|-----|
 | PST Pacific | 7:00 am | 11:00 am |
 | MST Mountain| 8:00 am| 12:00 pm |
-| CST Central| 9:00 am | 11:00 pm|
+| CST Central| 9:00 am | 1:00 pm|
 | EST Eastern| 10:00 am| 2:00 pm|
-| WET Western Europe| 3:00 pm| 7:00 pm|
+| WET Western Europe| 3:00 pm | 7:00 pm|
 
 ## Recruitment
 
