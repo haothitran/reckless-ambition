@@ -3,21 +3,21 @@ layout: default
 permalink: /
 ---
 
-Reckless Ambition of Area-52 (US) has a very unique raid schedule of weekend mornings of Saturday and Sunday from 10:00 am to 1:00 pm EST. We have successfully been progressive raiding in this time slot since Throne of Thunder (+7 years!) and competing with other guilds on a far lighter raid schedule.
+Reckless Ambition of Area-52 (US) has a very unique raid schedule of weekend mornings of Saturday and Sunday from 10:00 am to 2:00 pm EST. We have successfully been progressive raiding in this time slot since Throne of Thunder (+7 years!) and competing with other guilds on a far lighter raid schedule.
 
 ![](img/banner-08-03-visions-of-nzoth.png)
 
 ## Raid Schedule
 
-We raid weekend mornings on Saturday and Sunday from 10:00 am to 1:00 pm EST. Note that server time for Area-52 (US) is EST.
+We raid weekend mornings on Saturday and Sunday from 10:00 am to 2:00 pm EST. Note that server time for Area-52 (US) is EST.
 
 | Time Zone | Start | End |
 |-----------|-------|-----|
-| PST Pacific | 7:00 am | 10:00 am |
-| MST Mountain| 8:00 am| 11:00 am |
-| CST Central| 9:00 am | 12:00 pm|
-| EST Eastern| 10:00 am| 1:00 pm|
-| WET Western Europe| 3:00 pm| 6:00 pm|
+| PST Pacific | 7:00 am | 11:00 am |
+| MST Mountain| 8:00 am| 12:00 pm |
+| CST Central| 9:00 am | 11:00 pm|
+| EST Eastern| 10:00 am| 2:00 pm|
+| WET Western Europe| 3:00 pm| 7:00 pm|
 
 ## Recruitment
 
