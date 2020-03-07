@@ -6,15 +6,15 @@
 
 - class: <span class="demon-hunter">Demon Hunter</span>
   spec1: <span class="extremely-low">Vengeance</span>
-  spec2: <span class="medium">Havoc</span>
+  spec2: <span class="low">Havoc</span>
   spec3:
   spec4:
 
 - class: <span class="druid">Druid</span>
   spec1: <span class="extremely-low">Guardian</span>
   spec2: <span class="extremely-low">Feral</span>
-  spec3: <span class="high">Balance</span>
-  spec4: <span class="low">Restoration</span>
+  spec3: <span class="medium">Balance</span>
+  spec4: <span class="high">Restoration</span>
 
 - class: <span class="hunter">Hunter</span>
   spec1: <span class="extremely-low">Survival</span>
@@ -54,8 +54,8 @@
 
 - class: <span class="shaman">Shaman</span>
   spec1: <span class="extremely-low">Enhancement</span>
-  spec2: <span class="high">Elemental</span>
-  spec3: <span class="medium">Restoration</span>
+  spec2: <span class="low">Elemental</span>
+  spec3: <span class="high">Restoration</span>
   spec4:
 
 - class: <span class="warlock">Warlock</span>
