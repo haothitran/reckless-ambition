@@ -1,12 +1,12 @@
 - class: <span class="death-knight">Death Knight</span>
   spec1: <span class="extremely-low">Blood</span>
-  spec2: <span class="low">Frost</span>
-  spec3: <span class="low">Unholy</span>
+  spec2: <span class="medium">Frost</span>
+  spec3: <span class="medium">Unholy</span>
   spec4:
 
 - class: <span class="demon-hunter">Demon Hunter</span>
   spec1: <span class="extremely-low">Vengeance</span>
-  spec2: <span class="low">Havoc</span>
+  spec2: <span class="medium">Havoc</span>
   spec3:
   spec4:
 
@@ -18,14 +18,14 @@
 
 - class: <span class="hunter">Hunter</span>
   spec1: <span class="extremely-low">Survival</span>
-  spec2: <span class="high">Beastmaster</span>
-  spec3: <span class="high">Marksman</span>
+  spec2: <span class="medium">Beastmaster</span>
+  spec3: <span class="medium">Marksman</span>
   spec4:
 
 - class: <span class="mage">Mage</span>
-  spec1: <span class="high">Arcane</span>
-  spec2: <span class="high">Fire</span>
-  spec3: <span class="high">Frost</span>
+  spec1: <span class="medium">Arcane</span>
+  spec2: <span class="medium">Fire</span>
+  spec3: <span class="medium">Frost</span>
   spec4:
 
 - class: <span class="monk">Monk</span>
@@ -42,8 +42,8 @@
 
 - class: <span class="priest">Priest</span>
   spec1: <span class="high">Shadow</span>
-  spec2: <span class="high">Discipline</span>
-  spec3: <span class="high">Holy</span>
+  spec2: <span class="medium">Discipline</span>
+  spec3: <span class="medium">Holy</span>
   spec4:
 
 - class: <span class="rogue">Rogue</span>
@@ -55,7 +55,7 @@
 - class: <span class="shaman">Shaman</span>
   spec1: <span class="extremely-low">Enhancement</span>
   spec2: <span class="low">Elemental</span>
-  spec3: <span class="high">Restoration</span>
+  spec3: <span class="medium">Restoration</span>
   spec4:
 
 - class: <span class="warlock">Warlock</span>
