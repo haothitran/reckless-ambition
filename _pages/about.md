@@ -20,14 +20,15 @@ We have an active roster with events outside raiding hours. Random heroic and no
 
 ## Past Achievements
 
-- 7/8 Mythic Eternal Palace
-- 9/9 Mythic Battle of Dazar'alor (CE)
-- 8/8 Mythic Uldir (CE)
-- 11/11 Mythic Antorus, the Burning Throne (CE)
-- 8/9 Mythic Tomb of Sargeras
-- 10/10 Mythic Nighthold (CE)
-- 7/7 Mythic Emerald Nightmare (CE)
-- 13/13 Mythic Hellfire as #43 NA two-day raid (CE pre-nerfs)
+- 10/12 Mythic - Ny'alotha
+- 7/8 Mythic - Eternal Palace
+- 9/9 Mythic - Battle of Dazar'alor (CE)
+- 8/8 Mythic - Uldir (CE)
+- 11/11 Mythic - Antorus, the Burning Throne (CE)
+- 8/9 Mythic - Tomb of Sargeras
+- 10/10 Mythic - Nighthold (CE)
+- 7/7 Mythic - Emerald Nightmare (CE)
+- 13/13 Mythic - Hellfire Citadel as #43 NA two-day raid (CE pre-nerfs)
 
 ## Screenshots
 
