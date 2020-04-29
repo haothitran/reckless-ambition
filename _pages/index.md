@@ -5,8 +5,6 @@ permalink: /
 
 Reckless Ambition of Area-52 (US) has a very unique raid schedule of weekend mornings of Saturday and Sunday from 10:00 am to 2:00 pm EST. We have successfully been progressive raiding in this time slot since Throne of Thunder (+7 years!) and competing with other guilds on a far lighter raid schedule.
 
-![](img/banner-08-03-visions-of-nzoth.png)
-
 ## Raid Schedule
 
 We raid weekend mornings on Saturday and Sunday from 10:00 am to 2:00 pm EST. Note that server time for Area-52 (US) is EST.
@@ -21,31 +19,6 @@ We raid weekend mornings on Saturday and Sunday from 10:00 am to 2:00 pm EST. No
 
 ## Recruitment
 
-Current recruitment needs. [Interested?](/apply)  
-Last updated 2020-03-28.
-
-<table>
-
-  <tr>
-    <th>Class</th>
-    <th colspan="4">Specs</th>
-  </tr>
-
-  {% for recruitment in site.data.recruitment %}
-    <tr>
-      <td>{{ recruitment.class }}</td>
-      <td>{{ recruitment.spec1 }}</td>
-      <td>{{ recruitment.spec2 }}</td>
-      <td>{{ recruitment.spec3 }}</td>
-      <td>{{ recruitment.spec4 }}</td>
-    </tr>
-  {% endfor %}
-
-</table>
-
-- <span class="high">High priority</span>
-- <span class="medium">Medium priority</span>
-- <span class="low">Low priority</span>
-- <span class="extremely-low">Extremely low priority</span>
+See current recruitment needs on [WoWProgress](https://www.wowprogress.com/guild/us/area-52/Reckless+Ambition).
 
 Note that all exceptional players are [encouraged to apply](/apply), regardless of our current listed openings.
