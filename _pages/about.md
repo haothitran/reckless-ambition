@@ -31,6 +31,8 @@ We have an active roster with events outside raiding hours. Random heroic and no
 
 ## Screenshots
 
+![](/img/2020-04-05-raden.png)
+![](/img/2020-03-28-drest-agath.jpg)
 ![](/img/2019-10-20-queens-court.png)
 ![](/img/2019-06-30-lady-jaina-proudmoore.jpg)
 ![](/img/2019-04-14-stormwall-blockade.jpg)
