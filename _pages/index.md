@@ -21,4 +21,30 @@ We raid weekend mornings on Saturday and Sunday from 10:00 am to 2:00 pm EST. No
 
 See current recruitment needs on [WoWProgress](https://www.wowprogress.com/guild/us/area-52/Reckless+Ambition).
 
+Last updated 2020-03-28.
+
+<table>
+
+  <tr>
+    <th>Class</th>
+    <th colspan="4">Specs</th>
+  </tr>
+
+  {% for recruitment in site.data.recruitment %}
+    <tr>
+      <td>{{ recruitment.class }}</td>
+      <td>{{ recruitment.spec1 }}</td>
+      <td>{{ recruitment.spec2 }}</td>
+      <td>{{ recruitment.spec3 }}</td>
+      <td>{{ recruitment.spec4 }}</td>
+    </tr>
+  {% endfor %}
+
+</table>
+
+- <span class="high">High priority</span>
+- <span class="medium">Medium priority</span>
+- <span class="low">Low priority</span>
+- <span class="extremely-low">Extremely low priority</span>
+
 Note that all exceptional players are [encouraged to apply](/apply), regardless of our current listed openings.
