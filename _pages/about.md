@@ -20,7 +20,7 @@ We have an active roster with events outside raiding hours. Random heroic and no
 
 ## Past Achievements
 
-- 10/12 Mythic - Ny'alotha
+- 12/12 Mythic - Ny'alotha
 - 7/8 Mythic - Eternal Palace
 - 9/9 Mythic - Battle of Dazar'alor (CE)
 - 8/8 Mythic - Uldir (CE)
