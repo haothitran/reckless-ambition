@@ -122,6 +122,14 @@ ol { padding-left: $spacing-unit / 2; }
   text-shadow: none;
 }
 
+blockquote {
+  padding-top: $spacing-unit / 4;
+  padding-left: 1rem;
+  padding-bottom: $spacing-unit / 4;
+  border-left: 2px solid #ff0000;
+  background-color: #441010;
+}
+
 /*------------------------------------------------------------------------------
 -- // IMAGES
 ------------------------------------------------------------------------------*/

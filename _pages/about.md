@@ -4,7 +4,9 @@ title: About
 permalink: /about
 ---
 
-Our main goal is achieving Cutting Edge each tier while maintaining a light weekly raiding schedule. To be able to accomplish this requires all raiding members to come on time, prepared, and focused each week. Though this doesn’t mean that we don’t have fun and joke around and troll each other.
+> Please note that this website is an archived project. This is not an active website.
+
+Our main goal is achieving Cutting Edge (CE) each tier while maintaining a light weekly raiding schedule. To be able to accomplish this requires all raiding members to come on time, prepared, and focused each week. Though this doesn’t mean that we don’t have fun and joke around and troll each other.
 
 We expect raiders to be knowledgeable of fight encounters and familiar with strategies before zoning into raid. Strategy posts are up in advance to allow raiders time to review them. Collaboration and suggestions are always welcome and encouraged.
 
@@ -20,15 +22,15 @@ We have an active roster with events outside raiding hours. Random heroic and no
 
 ## Past Achievements
 
-- 12/12 Mythic - Ny'alotha
-- 7/8 Mythic - Eternal Palace
-- 9/9 Mythic - Battle of Dazar'alor (CE)
-- 8/8 Mythic - Uldir (CE)
-- 11/11 Mythic - Antorus, the Burning Throne (CE)
-- 8/9 Mythic - Tomb of Sargeras
-- 10/10 Mythic - Nighthold (CE)
-- 7/7 Mythic - Emerald Nightmare (CE)
-- 13/13 Mythic - Hellfire Citadel as #43 NA two-day raid (CE pre-nerfs)
+- 12/12 Mythic (CE) — Ny'alotha, the Waking City
+- 7/8 Mythic — Eternal Palace
+- 9/9 Mythic (CE) — Battle of Dazar'alor
+- 8/8 Mythic (CE) — Uldir
+- 11/11 Mythic (CE) — Antorus, the Burning Throne
+- 8/9 Mythic — Tomb of Sargeras
+- 10/10 Mythic (CE) — Nighthold
+- 7/7 Mythic (CE) — Emerald Nightmare
+- 13/13 Mythic (CE) — Hellfire Citadel
 
 ## Screenshots
 

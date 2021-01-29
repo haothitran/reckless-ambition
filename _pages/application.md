@@ -4,6 +4,8 @@ title: Apply
 permalink: /apply
 ---
 
+> Please note that this website is an archived project. This is not an active website.
+
 If you are looking to join Reckless Ambition on Area-52 (US) be sure to read our expectations from raiders before submitting your application:
 
 - 90%+ raid attendance during progression.
@@ -17,13 +19,13 @@ If you cannot make raid, you can post out in advance in our guild Discord under 
 
 ## Application
 
-Fill out the following template and post it in our Discord [#application](https://discord.gg/ZdxPaec) text channel.
+Fill out the following template and post it in our Discord [#application](/) text channel.
 
 Once you have posted your application, it will be visible to officers for review. An officer will get back to you to either decline or to set up an interview. This process could take anywhere from a few hours to a couple days depending on how busy we are, so please be patient.
 
 Contact for any questions or problems:
-- foonkflex#1152 (BattleTag) or Bigfoonk#5433 (Discord)
-- Pendulumzz#1663 (BattleTag) or Pendulum#0261 (Discord)
+- ~~Removed BattleTag contact information~~
+- ~~Removed Discord contact information~~
 
 ### Application Template
 
@@ -43,4 +45,4 @@ Logs link:
 7. Please upload a screenshot/video of your UI in combat.
 ```
 
-[Post your application.](https://discord.gg/ZdxPaec) 
+[Post your application.](/)
