@@ -49,4 +49,4 @@ Last updated 2020-03-28.
 - <span class="low">Low priority</span>
 - <span class="extremely-low">Extremely low priority</span>
 
-Note that all exceptional players are [encouraged to apply](/apply), regardless of our current listed openings.
+Note that all exceptional players are [encouraged to apply](/reckless-ambition/apply), regardless of our current listed openings.
